@@ -1,0 +1,8 @@
+name: hJupiter
+version: 1.0
+author: ilyMoonDay#7967
+main: hJupiter.devhusky.pyc.devCMDMain
+commands:
+ hjupiter:
+    description: principal command
+    aliases: [huskyjupiter, hjupiter, hjp, piter, go, huskygo]

@@ -1,0 +1,29 @@
+   #    /$$          /$$$$$                     /$$   /$$
+   #   | $$         |__  $$                    |__/  | $$
+   #   | $$$$$$$       | $$ /$$   /$$  /$$$$$$  /$$ /$$$$$$    /$$$$$$   /$$$$$$
+    #  | $$__  $$      | $$| $$  | $$ /$$__  $$| $$|_  $$_/   /$$__  $$ /$$__  $$
+   #   | $$  \ $$ /$$  | $$| $$  | $$| $$  \ $$| $$  | $$    | $$$$$$$$| $$  \__/
+    #  | $$  | $$| $$  | $$| $$  | $$| $$  | $$| $$  | $$ /$$| $$_____/| $$
+    #  | $$  | $$|  $$$$$$/|  $$$$$$/| $$$$$$$/| $$  |  $$$$/|  $$$$$$$| $$
+    #  |__/  |__/ \______/  \______/ | $$____/ |__/   \___/   \_______/|__/
+    #                                | $$
+    #                                | $$
+     #                               |__/
+
+
+
+
+panels-toset-spawn: true
+
+# this panel is in command /gopvp you can use
+panel-choose: 'coliseo'
+panel-choose-2: 'pvp'
+
+  # Hey this is the panel name, you can't edit panel in Free version (DEMO)
+
+name-pvp-panel: '&f&lh&d&lJupiter &7&lSetSpawn'
+
+  # Now Edit Items Name (Yes you can edit)
+
+name-pvp-item-1: '&6&lColiseo&c&lArena'
+name-pvp-item-2: '&b&lPvP&c&lArena'

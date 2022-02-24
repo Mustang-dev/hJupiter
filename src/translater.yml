@@ -1,0 +1,27 @@
+#=================================================================================================
+#    /$$           /$$$$$                     /$$   /$$
+#   | $$          |__  $$                    |__/  | $$
+#   | $$$$$$$       | $$ /$$   /$$  /$$$$$$  /$$ /$$$$$$    /$$$$$$   /$$$$$$
+#   | $$__  $$      | $$| $$  | $$ /$$__  $$| $$|_  $$_/   /$$__  $$ /$$__  $$
+#   | $$  \ $$ /$$  | $$| $$  | $$| $$  \ $$| $$  | $$    | $$$$$$$$| $$  \__/
+#   | $$  | $$| $$  | $$| $$  | $$| $$  | $$| $$  | $$ /$$| $$_____/| $$
+#   | $$  | $$|  $$$$$$/|  $$$$$$/| $$$$$$$/| $$  |  $$$$/|  $$$$$$$| $$
+#   |__/  |__/ \______/  \______/ | $$____/ |__/   \___/   \_______/|__/
+#                                 | $$
+#                                 | $$
+#                                 |__/
+#====================================================================================================
+
+
+# You can accept the tp to the mode You can't edit the "PANEL-NAME-1" this is older CC
+Go-to-1:
+  Enabled: true
+  panel-name-1: "&7&lChoose You want"
+toAccept-Go:
+    Item-displayname-Accept: '&a&lAccept teleport'
+    Item-Accept: GREEN_RECORD
+    Accept-Message: '&a&lTeleport accepted&7, Now you are on PvP Mode &cbecarful!'
+toDeny-Go:
+  Item-displayname-Deny: '&c&lDeny teleport'
+    Item-Deny: REDSTONE_BLOCK
+    Deny-Message: '&7[&b&l*&7] &cYou cancelled the teleport &6&l:('
